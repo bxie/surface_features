@@ -1,4 +1,5 @@
 /* NOTES:
+ * Dependency to run: npm install esrefactor
  * ------
  * Esrefactor can only change one identifier at a time, and must look up
  * identifiers by position index (in the source code). This creates an issue
